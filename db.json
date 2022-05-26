@@ -1,0 +1,16 @@
+{
+  "pizzas": [
+    {
+      "id": 1,
+      "name": "Margherita",
+      "ingredients": "pomodoro|mozzarella|basilico",
+      "price": 5
+    },
+    {
+      "id": 2,
+      "name": "Marinara",
+      "ingredients": "pomodoro|aglio",
+      "price": 4
+    }
+  ]
+}
